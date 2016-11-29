@@ -1,8 +1,8 @@
 # TIY Holiday Card Crash Course 
 Create a holiday card using Adobe Illustrator! Use this guide to help you navigate through the crash course with any links and downloads that we may need.
 
-- [Template for Holiday Cards](http://www.vistaprint.com/vp/ns/propath/UploadResources.aspx?selectedTab=0?pfid=A4U&pf_id=A4U&xnav=product-page#Templates){:target="_blank"}
-- [Printing Holiday Card](http://www.vistaprint.com/studio.aspx?template=f_A4U&ag=True&rd=1){:target="_blank"}
+- [Template for Holiday Cards](http://www.vistaprint.com/vp/ns/propath/UploadResources.aspx?selectedTab=0?pfid=A4U&pf_id=A4U&xnav=product-page#Templates)
+- [Printing Holiday Card](http://www.vistaprint.com/studio.aspx?template=f_A4U&ag=True&rd=1)
 <br>
 
 ## Design Fundamentals
@@ -13,11 +13,11 @@ Create a holiday card using Adobe Illustrator! Use this guide to help you naviga
 Fonts are vital to a project’s success or failure. Thoughtfully choosing the right font allows you to evoke a particular emotion or fit a certain style. Typography is not just about legibility. It is a blending of art and science and can serve a functional purpose. 
 
 #### Good font resources: 
-- [Google Fonts](https://fonts.google.com/){:target="_blank"}
-- [Fontspace](http://www.fontspace.com/){:target="_blank"}
-- [Dafont](http://www.dafont.com/){:target="_blank"}
-- [What the Font](https://www.myfonts.com/WhatTheFont/){:target="_blank"}
-- [Font Pair](http://fontpair.co/){:target="_blank"}
+- [Google Fonts](https://fonts.google.com/)
+- [Fontspace](http://www.fontspace.com/)
+- [Dafont](http://www.dafont.com/)
+- [What the Font](https://www.myfonts.com/WhatTheFont/)
+- [Font Pair](http://fontpair.co/)
 
 #### Main Font Categories
 ![fonts](https://designschool.canva.com/wp-content/uploads/sites/2/cache/2015/07/Canva_font-types-infographic/Canva_font-types-infographic-530x827.png)
@@ -27,7 +27,7 @@ The use of color can dramatically affect moods, feelings, and emotions. It is a 
 
  The best practice is to start off with shades of grey and then slowly add 1 or 2 accent colors until you feel good with colors. Inverted colors are really easy to work with- for example, white text on red background and red text on white background.  
  
-[Kuler](https://color.adobe.com/){:target="_blank"} by Adobe is a great resource for exploring and learning about colors. It lets you create color palettes. 
+[Kuler](https://color.adobe.com/) by Adobe is a great resource for exploring and learning about colors. It lets you create color palettes. 
 
 - CMYK (Print Design) 
 - RGB (Web Design)
